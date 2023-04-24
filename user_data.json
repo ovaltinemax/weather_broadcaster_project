@@ -1,0 +1,23 @@
+{
+    "weather_api_key": "here_is_your_opendata_api_key",
+    "users": {
+            "John": {
+                "user": "John",
+                "model_type": "GeneralModelNotification",
+                "line_token": "here_is_user_line_token",
+                "locationName":"六腳"
+            },
+            "Kenny": {
+                "user": "Kenny",
+                "model_type": "PremiumModelNotification",
+                "line_token": "here_is_user_line_token",
+                "locationName":"六腳"
+            },
+            "Sarah": {
+                "user": "Sarah",
+                "model_type": "PremiumModelNotification",
+                "line_token": "here_is_user_line_token",
+                "locationName":"六腳"
+            }
+    }
+}
