@@ -11,13 +11,13 @@
                 "user": "Kenny",
                 "model_type": "PremiumModelNotification",
                 "line_token": "here_is_user_line_token",
-                "locationName":"六腳"
+                "locationName":"桃園"
             },
             "Sarah": {
                 "user": "Sarah",
                 "model_type": "PremiumModelNotification",
                 "line_token": "here_is_user_line_token",
-                "locationName":"六腳"
+                "locationName":"善化"
             }
     }
 }
